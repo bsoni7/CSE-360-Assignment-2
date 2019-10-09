@@ -3,7 +3,7 @@
  * ID: 1209105868
  * CSE 360 Assignment 2
  * This is an adding machine, which adds the '+' and "-" values to a string
- * so it can display the history of values inputed.
+ * so it can display the history of values inputed. 
  */
 
 package cse360assign2;
